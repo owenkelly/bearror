@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bearror"
   gem.homepage = "http://github.com/owenkelly/bearror"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{makes error codes smaller and easier to read}
+  gem.description = %Q{cuts off most of the file path and prints out the backtrace line by line for easier parsing. Except for native code errors (ie Syntax, method undefined).}
   gem.email = "owen.james.kelly@gmail.com"
   gem.authors = ["Owen Kelly"]
   # dependencies defined in Gemfile
