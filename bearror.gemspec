@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "bearror.gemspec",
     "lib/.DS_Store",
     "lib/bearror.rb",
     "spec/.DS_Store",
