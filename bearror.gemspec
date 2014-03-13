@@ -15,7 +15,9 @@ Gem::Specification.new do |s|
   s.description = "cuts off most of the file path and prints out the backtrace line by line for easier parsing. Except for native code errors (ie Syntax, method undefined)."
   s.email = "owen.james.kelly@gmail.com"
   s.extra_rdoc_files = [
+    "LICENSE",
     "LICENSE.txt",
+    "README.md",
     "README.rdoc"
   ]
   s.files = [
@@ -24,7 +26,9 @@ Gem::Specification.new do |s|
     ".rspec",
     "Gemfile",
     "Gemfile.lock",
+    "LICENSE",
     "LICENSE.txt",
+    "README.md",
     "README.rdoc",
     "Rakefile",
     "VERSION",
