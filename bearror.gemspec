@@ -41,6 +41,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/owenkelly/bearror"
   s.licenses = ["MIT"]
+  s.require_paths = ["lib"]
   s.rubygems_version = "2.2.1"
   s.summary = "makes error codes smaller and easier to read"
 
