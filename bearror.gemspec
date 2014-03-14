@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     ".DS_Store",
     ".document",
     ".rspec",
+    ".travis.yml",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE",
